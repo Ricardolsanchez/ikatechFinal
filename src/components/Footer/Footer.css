@@ -1,0 +1,15 @@
+#footer{
+    margin-top: 20px;
+}
+
+.Footer{
+    background-color: rgb(155, 155, 155);
+    height: 120px;
+}
+
+.text_icons {
+    text-align: center;
+    align-items: center;
+    transform: translateY(30px);
+}
+

@@ -1,0 +1,76 @@
+.logo-banner{
+    background-color: rgba(194, 69, 69, 0.897);
+    margin: 0;
+}
+
+.logo-banner h3{
+    color: #fff;
+}
+
+.logo-gris-banner{
+    margin-top: -10px;
+    background-color: rgb(155, 155, 155);
+}
+
+.logo-gris-banner ul li a{
+    font-size: 10px;
+    position: relative;
+    left: 65%;
+    margin: 1rem;
+}
+
+.logo img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 50px;
+    width: 80px !important;
+    object-fit: contain;
+}
+
+.nav_wrapper h2{
+    position: absolute;
+    left: 70px;
+    top: 10px;
+}
+
+#navbarSupportedContent{
+    margin-top: 5%;
+}
+
+.internal li a {
+    text-decoration: none;
+    font-size: 18px;
+}
+
+input {
+    height: 30px;
+}
+
+.carrito-right p{
+    position: relative;
+    top: 30%;
+    left: 40%;
+}
+
+.amount{
+    position: relative;
+    left: 60%;
+}
+
+.amount h6{
+    position: relative;
+    left: 40%;
+    top: 28px;
+}
+
+.amount span i{
+    position: relative;
+    left: 30%;
+    top: 48px;
+}
+
+.input-search{
+    position: relative;
+    margin-left: 50%;
+}

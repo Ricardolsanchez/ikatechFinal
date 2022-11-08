@@ -1,0 +1,123 @@
+.square{
+    background-color: grey;
+    padding: 20px 20px;
+    width: 50px;
+    height: 20px;   
+}
+
+.tallas h5 {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 1px;
+}
+
+.tallasdos{
+    margin-left: 70px;
+    margin-top: -40px;
+}
+
+.tallasdos h5 {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 1px;
+}
+
+
+.tallastres{
+    margin-left: 140px;
+    margin-top: -40px;
+}
+
+.tallastres h5 {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 1px;
+}
+
+.tallascuatro{
+    margin-left: 210px;
+    margin-top: -40px;
+}
+
+.tallascuatro h5 {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 1px;
+}
+
+.tallascinco{
+    margin-left: 280px;
+    margin-top: -40px;
+}
+
+.tallascinco h5 {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 1px;
+}
+.tallasseis{
+    margin-top: 10px;
+}
+
+.tallasseis h5 {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 1px;
+}
+
+.tallassiete{
+    margin-top: -40px;
+    margin-left: 70px;
+}
+
+.tallassiete h5 {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 1px;
+}
+.tallasocho{
+    margin-top: -39px;
+    margin-left: 140px;
+}
+
+.tallasocho h5 {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 1px;
+}
+.tallasnueve{
+    margin-left: 210px;
+    margin-top: -39px;
+}
+
+.tallasnueve h5 {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 1px;
+}
+.tallasdiez{
+    margin-left: 280px;
+    margin-top: -39px;
+}
+
+.tallasdiez h5 {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 1px;
+}
+
+.title_tallas h6{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.btn button{
+    margin-right: 10px;
+}
+
+.corazon span i{
+    position: absolute;
+    left: 65%;
+    top: 113%;
+    font-size: 150%;
+}

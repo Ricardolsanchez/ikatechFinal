@@ -1,0 +1,26 @@
+.container{
+    margin-left: 110px;
+}
+
+.titulo__dos{
+    background-color: rgb(155, 155, 155);
+}
+
+.titulo__dos h5{
+    color: #fff;
+}
+
+.title__prin{
+    font-weight: 600;
+}
+
+.precio-ecommerce{
+    color: rgb(163, 48, 48);
+    font-weight: 600;
+}
+
+.btn {
+    background-color: rgb(163, 48, 48);
+    color: #fff;
+    line-height: normal;
+}
